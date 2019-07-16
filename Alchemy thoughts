@@ -1,0 +1,8 @@
+Alchemical transformations are a puzzle which the user has to navigate. It acts as a sort of maze which is traversable. Think of the maze as a graph. Facets are nodes in the graph and treatments (or mixtures?) are edges.
+
+
+Treatments
+- Sun/Moon exposure: move around a cycle of n facets.
+- Calcination (anoxic too?)
+- Acidic digestion (type of acid matters)
+-

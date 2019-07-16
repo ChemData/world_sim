@@ -1,0 +1,70 @@
+Simulating Material Properties
+
+Goal
+    I want to be able to procedurally generate magical materials. These materials should have properties which will interact/change when materials are combined or treated. These materials should then be turned into weapons and armor with classic RPG stats. The goal is that the relationships between materials and final item quality should be difficult for a player to determine exactly but that broad trends should be findable through experimentation. Additionally, there should be enough distinction in the materials available between worlds that discussions of people playing in different worlds should not yield useful insights into how the materials system works. Materials should interact in interesting ways leading to some very powerful combinations. However, generally speaking - rarer materials should lead to better items.
+
+Final Weapon/Armor Stats
+- Damage
+- Weight
+- Attack speed
+- Pierce Damage
+- Armor
+- Pierce Resistance
+- Magical resitance
+- Magical damage
+- + magical abilities
+- Ability to cast special spell
+- Durability
+
+Material Meta-properties leading to these
+- Density
+- Durability
+- Softening point
+- Hardness
+- Magical attunement
+
+Base Material Properies
+- Elements (essences)
+    - Fire
+    - Water
+    - Earth
+    - Spirt
+    - Air
+
+How base properties become meta-properties
+- Each essence
+- Some properties are based on the relative composition of the material (e.g. hardness) and others are based on the absolute value (e.g. magical attunement)
+
+Alloying
+- It is essential for any alloying system that identical or very similar metals produce a result that is basically the same as the inputs.
+- Alloys should generally have properties that are intermediate between their parents but should sometimes have very distinct useful (or detrimental) properties.
+- At base, the elements of the daughter metal will be the weighted average of parents' elements.
+- There may exist certain ratios of elements which provide bonuses. For instance, if the difference in Fire between two metals is twice the difference in earth, it will provide a large bonus to hardness. The amount of bonus falls of steeply if the ratio is off. Perhaps certain elements will be allies or enemies with ideal ratios between allies providing benefits and ideal ratios between enemies providing detriments.
+
+
+Classes of Materials
+- Metal
+- Stone
+- Wood
+- Herb
+- Fiber
+- Leather
+
+
+Tools for Altering Materials
+- Furnace (temperature dependent)
+    - Melt and alloy metals
+    - Ash plant materials
+- Quench (different liquids)
+- Distillation
+
+
+
+Random thoughts
+- Metals that are sufficiently different should not alloy
+- Part of why experimentation will be hard is that many materials will be expensive and experimentation will waste them.
+- Bad items aren't soul bound
+- Really good items are soul bound (or maybe aren't if a certain stat is high enough).
+- Getting furances up to the right temp will be important. Different materials will produce flames of different temps.
+- Addatives allow for the mixing of more different materials.
+- When generating a new system you can have different numbers of elements
